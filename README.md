@@ -35,3 +35,8 @@ pip install -r requirements.txt
 4. Run the script with:
 ```bash
 python3 wifi_monitor.py
+```
+
+## Disclaimer
+
+This script is for educational purposes only. Unauthorized use against networks you do not own or have explicit permission to test is illegal. Use responsibly and within the confines of the law.
