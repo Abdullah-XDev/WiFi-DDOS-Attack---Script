@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ## Installation
 1. Clone this repository:
 ```bash
-git clone https://github.com/username/wifi-monitor-script.git
+https://github.com/Abdullah-XDev/WiFi-DDOS-Attack---Script.git
 ```
 2. Navigate to the project directory:
 ```bash
