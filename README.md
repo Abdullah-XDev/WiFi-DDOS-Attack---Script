@@ -1,0 +1,37 @@
+# WiFi DDOS Attack Script
+
+A Python-based WiFi monitoring script that captures and analyzes wireless networks. This tool is useful for testing WiFi security and performance.
+
+## Features
+- Scans for nearby WiFi networks.
+- Displays network details including SSID, signal strength, and encryption type.
+- Allows filtering of SSIDs to exclude invalid characters.
+
+## Requirements
+- Python 3.6 or higher
+- Required libraries:
+  - `scapy`
+  - `os`
+  - `sys`
+  - `argparse`
+
+Install dependencies using:
+```bash
+pip install -r requirements.txt
+```
+## Installation
+1. Clone this repository:
+```bash
+git clone https://github.com/username/wifi-monitor-script.git
+```
+2. Navigate to the project directory:
+```bash
+cd wifi-monitor-script
+```
+3. Install required Python libraries:
+```bash
+pip install -r requirements.txt
+```
+4. Run the script with:
+```bash
+python3 wifi_monitor.py
