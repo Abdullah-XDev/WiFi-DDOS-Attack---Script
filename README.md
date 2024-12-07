@@ -26,7 +26,7 @@ https://github.com/Abdullah-XDev/WiFi-DDOS-Attack---Script.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd wifi-monitor-script
+cd WiFi-DDOS-Attack---Script
 ```
 3. Install required Python libraries:
 ```bash
