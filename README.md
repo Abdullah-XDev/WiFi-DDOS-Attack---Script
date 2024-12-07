@@ -15,10 +15,7 @@ A Python-based WiFi monitoring script that captures and analyzes wireless networ
   - `sys`
   - `argparse`
 
-Install dependencies using:
-```bash
-pip install -r requirements.txt
-```
+
 ## Installation
 1. Clone this repository:
 ```bash
@@ -28,13 +25,9 @@ https://github.com/Abdullah-XDev/WiFi-DDOS-Attack---Script.git
 ```bash
 cd WiFi-DDOS-Attack---Script
 ```
-3. Install required Python libraries:
+3. Run the script with:
 ```bash
-pip install -r requirements.txt
-```
-4. Run the script with:
-```bash
-python3 wifi_monitor.py
+python3 WifiDos.py or WifiDosmon.py
 ```
 
 ## Disclaimer
